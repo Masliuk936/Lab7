@@ -1,0 +1,8 @@
+{
+  "name": "linear-lab",
+  "version-string": "1.0.0",
+  "builtin-baseline": "7d2bab768f86e068ce3f63c53afb420d384caf4f",
+  "dependencies": [
+    "gtest"
+  ]
+}
